@@ -2,7 +2,8 @@
 My Board Project
 Using Eclipse IDE
 launch with tomcat9.0
-recommended web.xml include this code :     
+recommended web.xml include this code :
+
     <welcome-file-list>
     	<welcome-file>/WEB-INF/Login.jsp</welcome-file>
     	<welcome-file>/WEB-INF/Login.do</welcome-file>
