@@ -1,8 +1,8 @@
 # My_Board
-My Board Project
-Using Eclipse IDE
-launch with tomcat9.0
-recommended web.xml include this code :
+My Board Project<br>
+Using Eclipse IDE<br>
+launch with tomcat9.0<br>
+recommended web.xml include this code : <br>
 
     <welcome-file-list>
     	<welcome-file>/WEB-INF/Login.jsp</welcome-file>
