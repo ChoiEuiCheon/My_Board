@@ -13,7 +13,7 @@ import com.korea.dto.ReplyDTO;
 public class BoardDAO {
 	//DB연결
 	private String url = "jdbc:oracle:thin:@localhost:1521:xe";
-	private String id = "book_ex";
+	private String id = "test01";
 	private String pw = "1234";
 	
 	private Connection conn=null;
